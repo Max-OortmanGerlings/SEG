@@ -1,0 +1,4 @@
+bocht: 300, 300 - 100, 100
+weg: 100, 300 - 25, 100
+lijnen: 1, 300 - 1, 100
+oversteekplaats: 3, 10
